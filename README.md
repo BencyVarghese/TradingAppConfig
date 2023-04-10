@@ -1,1 +1,1 @@
-# TradingAppConfig
+# Configuration repository for TradingApp
